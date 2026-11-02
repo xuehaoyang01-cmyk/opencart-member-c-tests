@@ -1,4 +1,4 @@
-# OpenCart shopping cart tests — Member C
+# OpenCart shopping cart tests — Haoyang Xue
 
 Automated tests for the OpenCart demonstration store at https://opencart.abstracta.us/.
 
